@@ -8,4 +8,5 @@
 
 	echo 111;
 
+	echo "ffffffff";
 ?>
