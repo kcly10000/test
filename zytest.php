@@ -3,5 +3,6 @@
 	var_dump([
 		'asdf',
 		'ghjk',
+		'llll',
 	]);
 ?>
